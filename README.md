@@ -7,7 +7,7 @@
 ### First Basic setup
 
 - The First Setup is like a hello world for setting up *zephyr*
-- [Refer](documentaion/Components and Connections.md) for connecting the components.
+- [Refer](documentaion/Components%20and%20Connections.md) for connecting the components.
 - Flash [code](arduino/deviceCode.ino) to the Arduino Board.
 
 #### NOTE:
