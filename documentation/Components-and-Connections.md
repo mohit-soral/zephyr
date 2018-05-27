@@ -37,4 +37,5 @@
 
 ## Final Setup
 
-![Final Setup](../BasicFinalLook.jpg)
+![Final Setup](../images/BasicFinalLook.jpg)
+
