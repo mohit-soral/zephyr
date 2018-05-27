@@ -22,7 +22,7 @@
 	COM1 -> Common of Relay 1
 	NC1 -> Normal Closed of Relay 1
 ```
-![Device to Relay](../images/Device to Relay 1.jpg)
+![Device to Relay](../images/DeviceToRelay1.jpg)
 
 ### Arduino to the Relay
 1. Make following connections:
@@ -30,11 +30,11 @@
 	5V Power --> VCC
 	Digital 7 --> IN 1
 
-![Arduino to Relay](../images/Arduino to Relay.jpg)
+![Arduino to Relay](../images/ArduinoToRelay.jpg)
 
-![Relay to Arduino](../images/Relay to Arduino.jpg)
+![Relay to Arduino](../images/RelayToArduino.jpg)
 
 
 ## Final Setup
 
-![Final Setup](../Basic final look.jpg)
+![Final Setup](../BasicFinalLook.jpg)
